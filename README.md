@@ -1,10 +1,10 @@
 # Page Management Dropdown #
 
-Contributors: jaschaephraim
-Donate link: http://jaschaephraim.com/wordpress/
-Tags: admin, administration, page, pages, menu, cms
-Requires at least: 3.0
-Tested up to: 4.x
+Contributors: jaschaephraim  
+Donate link: http://jaschaephraim.com/wordpress/  
+Tags: admin, administration, page, pages, menu, cms  
+Requires at least: 3.0  
+Tested up to: 4.x  
 Stable tag: 2.6
 
 Adds a link to edit each individual page to the Pages admin menu.
